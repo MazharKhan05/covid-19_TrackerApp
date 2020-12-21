@@ -1,0 +1,4 @@
+->>Apply a dark and light theme using biuldin button by 'andtn' module
+->>Then use a svg pic to toggle between light and dark mode
+->>Use useEffect() to preserve the previous applied mode even when the whole page is refreshed by storing 
+the state of mode in localStorage.
